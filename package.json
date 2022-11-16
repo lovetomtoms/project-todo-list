@@ -1,0 +1,26 @@
+{
+  "name": "project-todo-list",
+  "version": "1.0.0",
+  "description": "This project comprises object oriented programming principles.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovetomtoms/project-todo-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovetomtoms/project-todo-list/issues"
+  },
+  "homepage": "https://github.com/lovetomtoms/project-todo-list#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}

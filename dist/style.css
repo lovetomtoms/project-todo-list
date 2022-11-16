@@ -1,0 +1,20 @@
+body {
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.project-list li {
+    cursor: pointer;
+}
+
+.project-list li.active-list {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+button.delete-project {
+    margin-top: 20px;
+}
